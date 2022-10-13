@@ -1,2 +1,2 @@
-# dio
-Estudos Digital Innovation One
+# python
+Repositório de comandos python
